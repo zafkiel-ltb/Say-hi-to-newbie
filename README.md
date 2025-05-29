@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zafkiel-ltb</h1>
 <h3 align="center">A student who is studying Data Science Major at University.</h3>
 
-- 🔭 I’m currently working on **React projects**
+- 🔭 I’m currently doing  **Data Science Major**
 
 - 🌱 I’m currently learning **React, Mongoose, Python, R, ...**
 
