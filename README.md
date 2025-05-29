@@ -1,12 +1,12 @@
 # Hi there, I'm Thien Luong 👋
 
 ## About Me
-I am a final-year **Data Science** student with a passion for leveraging data to drive meaningful insights and solutions. Currently pursuing my degree at [University Name], I am actively seeking opportunities to apply my analytical skills and technical expertise in a professional environment.
+I am a final-year **Data Science** student with a passion for leveraging data to drive meaningful insights and solutions. Currently pursuing my degree at [Ho Chi Minh City University of Foreign Languages and Information Technology (HUFLIT)], I am actively seeking opportunities to apply my analytical skills and technical expertise in a professional environment.
 
 ## 🎓 Academic Background
 - **Major**: Data Science
 - **Current Status**: Final Year Student
-- **Expected Graduation**: [Month/Year]
+- **Expected Graduation**: [4/2026]
 
 ## 🔧 Technical Skills & Tools
 
