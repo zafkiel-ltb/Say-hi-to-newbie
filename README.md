@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **luongbaothien12@gmail.com**
 
-- ⚡ Fun fact **I think I am depressed**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
