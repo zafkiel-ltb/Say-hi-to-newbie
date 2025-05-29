@@ -64,7 +64,7 @@ I am actively seeking internship and entry-level opportunities in:
 
 ## 📫 Contact Information
 - **Email**: [luongbaothien12@gmail.com](mailto:luongbaothien12@gmail.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/bao-luong-8044a7368)
+- **LinkedIn**: [Bao Luong](https://linkedin.com/in/bao-luong-8044a7368)
 - **Portfolio**: [Your Portfolio Website](https://your-portfolio.com)
 
 ## 🌐 Connect With Me
