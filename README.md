@@ -1,20 +1,99 @@
-<h1 align="center">Hi 👋, I'm Zafkiel-ltb</h1>
-<h3 align="center">A student who is studying Data Science Major at University.</h3>
+# Hi there, I'm Thien Luong 👋
 
-- 🔭 I’m currently doing  **Data Science Major**
+## About Me
+I am a final-year **Data Science** student with a passion for leveraging data to drive meaningful insights and solutions. Currently pursuing my degree at [University Name], I am actively seeking opportunities to apply my analytical skills and technical expertise in a professional environment.
 
-- 🌱 I’m currently learning **React, Mongoose, Python, R, ...**
+## 🎓 Academic Background
+- **Major**: Data Science
+- **Current Status**: Final Year Student
+- **Expected Graduation**: [Month/Year]
 
-- 🤝 I’m looking for help with **New Techs**
+## 🔧 Technical Skills & Tools
 
-- 📫 How to reach me **luongbaothien12@gmail.com**
+### Programming Languages
+- **Python** - Data analysis, machine learning, web scraping
+- **R** - Statistical analysis, data visualization
+- **JavaScript** - Web development, data visualization
+- **C#** - Object-oriented programming, desktop applications
 
+### Frameworks & Libraries
+- **React** - Frontend web development
+- **Node.js** - Backend development
+- **Mongoose** - MongoDB object modeling
+- **Pandas, NumPy, Scikit-learn** - Data science and machine learning
+- **[Add other relevant libraries]**
 
-<h3 align="left">Connect with me:</h3>
+### Databases & Tools
+- **MongoDB** - NoSQL database management
+- **[SQL databases]** - Relational database management
+- **Git/GitHub** - Version control
+- **[Add other tools you use]**
+
+## 🌱 Currently Learning
+- Advanced Machine Learning techniques
+- Deep Learning frameworks (TensorFlow/PyTorch)
+- Cloud computing platforms (AWS/Azure/GCP)
+- Data Engineering tools and practices
+- [Add specific technologies you're exploring]
+
+## 🎯 Career Objectives
+I am actively seeking internship and entry-level opportunities in:
+- Data Science and Analytics
+- Machine Learning Engineering
+- Business Intelligence
+- Data Engineering
+- Research and Development
+
+## 📊 Featured Projects
+*[Add your best projects here with brief descriptions and links]*
+
+### Project 1: [Project Name]
+- **Description**: [Brief description of what the project does]
+- **Technologies**: [List technologies used]
+- **Repository**: [Link to repository]
+- **Live Demo**: [Link if available]
+
+### Project 2: [Project Name]
+- **Description**: [Brief description]
+- **Technologies**: [List technologies used]
+- **Repository**: [Link to repository]
+
+## 📈 GitHub Statistics
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zafkiel-ltb&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zafkiel-ltb&layout=compact&theme=radical)
+
+## 📫 Contact Information
+- **Email**: [luongbaothien12@gmail.com](mailto:luongbaothien12@gmail.com)
+- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
+- **Portfolio**: [Your Portfolio Website](https://your-portfolio.com)
+
+## 🌐 Connect With Me
 <p align="left">
-<a href="https://fb.com/https://www.facebook.com/niisan.shou/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/niisan.shou/" height="30" width="40" /></a>
-<a href="https://instagram.com/_luogtnbao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_luogtnbao" height="30" width="40" /></a>
+<a href="[Your LinkedIn URL]" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="[Your Facebook URL]" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
+<a href="[Your Instagram URL]" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
+<a href="[Your Twitter URL]" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+## 🏆 Certifications & Achievements
+- [Certification Name] - [Issuing Organization] - [Year]
+- [Achievement/Award] - [Organization] - [Year]
+- [Add relevant certifications and achievements]
+
+## 📚 References & Recommendations
+*Available upon request*
+
+### Academic References
+- **[Professor Name]** - [Title], [Department], [University]
+  - Email: [email@university.edu]
+  - Phone: [Phone number]
+
+### Professional References
+- **[Supervisor Name]** - [Title], [Company]
+  - Email: [email@company.com]
+  - Phone: [Phone number]
+
+---
+⭐ **Open to collaboration and new opportunities!** Feel free to reach out if you have interesting projects or job opportunities in the data science field.
+
+*Last updated: [Current Date]*
